@@ -8,6 +8,17 @@ img {
   width: auto/9;
 }
 
+body {
+  -webkit-animation: colorchange 60s infinite; 
+  animation: colorchange 60s infinite;
+}
+  @keyframes colorchange {
+  0%  {background: #414141;}
+  33%  {background: #1c1c1c;}
+  75%  {background: #101010;}
+  100%  {background: #414141;}   
+}  
+
 h1 {
   font-size: 50px;
   font-weight: 600;
