@@ -61,24 +61,6 @@ h3 {
 
 }
 
-.inf {
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-.inf ul {
-  padding-left: 20px;
-}
-
-.item {
-  flex: 1;
-  margin: 0 5px;
-  padding: 5px;
-  border-radius: 5px;
-  min-width: 300px;
-}
-
 
 @media (max-width: 1000px) { 
   .container {
