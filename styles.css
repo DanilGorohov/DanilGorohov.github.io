@@ -1,5 +1,7 @@
 li {
   list-style-type: square;
+  font-family: "Arial";
+  color: #90EE90;
 }
 img {
   max-width: 90%;
@@ -8,7 +10,7 @@ img {
 }
 
 p, li, a {
-  font-family: "Arial", sans-serif;
+  font-family: "Arial";
   color: #90EE90;
 }
 
@@ -20,6 +22,7 @@ h1 {
   background-clip: text;
   -webkit-background-clip: text;
   text-align: center;
+  font-family: "Arial";
 }
 
 body {
@@ -40,9 +43,12 @@ h2 {
   background-clip: text;
   -webkit-background-clip: text;
   text-align: center;
+  font-family: "Arial";
 }
 h3 {
   text-align: center;
+  font-family: "Arial";
+  color: #90EE90;
 }
 
 .container {
